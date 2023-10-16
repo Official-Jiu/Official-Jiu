@@ -3,7 +3,7 @@
   ####  :wave: Welcome my github profile !
   <br/>
   <br/>
-  ####:🧑🏻‍💻:My skills
+  ### 🧑🏻‍💻 My skills
 
   <br/>
   
