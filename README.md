@@ -32,6 +32,12 @@
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">
   <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white">
-  
+
+  <br/>
+
+  ####   :: Languages
+  🇺🇸 English(U.S.)
+  🇰🇷 Korean(Native) 
+  🇯🇵 Japanese
 
 </div>
