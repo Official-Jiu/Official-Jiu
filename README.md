@@ -38,11 +38,16 @@
   <br/>
 
   ####   :: Languages
-  🇺🇸 English(U.S.)
+  🇺🇸 English(U.S./Fluent)
   🇰🇷 Korean(Native) 
-  🇯🇵 Japanese
+  🇯🇵 Japanese(Business)
 
   ![Jiu's github stats](https://github-readme-stats.vercel.app/api?username=official-jiu&show_icons=true)
   [![Jiu's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=official-jiu&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/official-jiu)
 
+
+####   Junior Game Programmer(Unreal Engine) <br/>
+####   Studying Unity Engine & C# <br/>
+####   Computer Science(B.S.) & Economics(B.S.) <br/>
+####   
 </div>
